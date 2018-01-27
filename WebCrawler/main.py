@@ -5,7 +5,7 @@ from mymodules.domain import *
 from mymodules.general import *
 
 PROJECT_NAME='WebCrawling'
-HOMEPAGE='https://sitcsestudent.000webhostapp.com'
+HOMEPAGE='https://bikz007.github.io/CodePortBikz/'
 DOMAIN_NAME=get_domain_name(HOMEPAGE)
 QUEUE_FILE=PROJECT_NAME+'/queue.txt'
 CRAWLED_FILE=PROJECT_NAME+'/crawled.txt'
